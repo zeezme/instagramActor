@@ -1,0 +1,9 @@
+{
+    "storyUrls": [
+        {
+            "url": "url"
+        }
+    ],
+    "cookies": "cookie",
+    "proxyUrl": "http://proxy:password@ip:port"
+}
